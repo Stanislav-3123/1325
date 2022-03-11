@@ -9,6 +9,6 @@ export default function PercentButton({dispatch, operation}) {
 	>
 		{operation}
 	</button>
-	)
+	)	
 }
 	
